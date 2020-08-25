@@ -1,9 +1,0 @@
-{
-  "ignoredVulnerabilities": [
-    {
-      "vulnerabilityCode": "Example",
-      "fullyQualifiedName": "Example.A.B.C",
-      "note": "The reason why this vulnerability should be ignored."
-    }
-  ]
-}

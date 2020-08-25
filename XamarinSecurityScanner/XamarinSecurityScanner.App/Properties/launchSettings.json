@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "XamarinSecurityScanner": {
-      "commandName": "Project",
-      "commandLineArgs": "--path ..\\..\\..\\..\\..\\VulnerableApps\\BankingApp --ignore-file ignore-file.json"
-    }
-  }
-}
